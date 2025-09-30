@@ -1,0 +1,5 @@
+{
+  "name": "Indian Nutrition AI",
+  "description": "An AI-powered assistant to generate personalized Indian meal plans based on health conditions, dietary preferences, and regional tastes.",
+  "requestFramePermissions": []
+}
